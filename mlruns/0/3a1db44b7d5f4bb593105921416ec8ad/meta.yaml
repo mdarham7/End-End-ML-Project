@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mohammed%20Arham/Desktop/MLFLOW/End-End-ML-Project/mlruns/0/3a1db44b7d5f4bb593105921416ec8ad/artifacts
+end_time: 1706428666401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a1db44b7d5f4bb593105921416ec8ad
+run_name: dazzling-pig-921
+run_uuid: 3a1db44b7d5f4bb593105921416ec8ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706428657895
+status: 3
+tags: []
+user_id: Mohammed Arham

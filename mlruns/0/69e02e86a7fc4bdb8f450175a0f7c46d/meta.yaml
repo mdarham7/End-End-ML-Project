@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mohammed%20Arham/Desktop/MLFLOW/End-End-ML-Project/mlruns/0/69e02e86a7fc4bdb8f450175a0f7c46d/artifacts
+end_time: 1706428292636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69e02e86a7fc4bdb8f450175a0f7c46d
+run_name: brawny-yak-239
+run_uuid: 69e02e86a7fc4bdb8f450175a0f7c46d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706428286325
+status: 3
+tags: []
+user_id: Mohammed Arham
