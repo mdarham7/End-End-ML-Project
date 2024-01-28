@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mohammed%20Arham/Desktop/MLFLOW/End-End-ML-Project/mlruns/0/bfb1e9bf321642d5be615ea96f582374/artifacts
+end_time: 1706425815117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfb1e9bf321642d5be615ea96f582374
+run_name: rumbling-stag-250
+run_uuid: bfb1e9bf321642d5be615ea96f582374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706425807881
+status: 3
+tags: []
+user_id: Mohammed Arham

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mohammed%20Arham/Desktop/MLFLOW/End-End-ML-Project/mlruns/0/e75fd55e4c2b4979b58025c1c5217c96/artifacts
+end_time: 1706425786339
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e75fd55e4c2b4979b58025c1c5217c96
+run_name: intrigued-gull-184
+run_uuid: e75fd55e4c2b4979b58025c1c5217c96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706425779297
+status: 3
+tags: []
+user_id: Mohammed Arham
